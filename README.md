@@ -46,7 +46,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## 📧 Contacto
 
-Para perguntas ou sugestões, sinta-se à vontade para me contatar em [linkedin](https://www.linkedin.com/in/fernandogomesfg/) ou [email](mailto:fernandogomesbernardo@gmail.com).
+Para perguntas ou sugestões, sinta-se à vontade para me contatar em [linkedin](https://www.linkedin.com/in/fernandogomesfg/).
 
 Divirta-se explorando os dados de Springfield! 🍩📺
 
