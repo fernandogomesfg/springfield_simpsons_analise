@@ -1,4 +1,5 @@
 # Projecto Data Springfield: Explorando os Dados dos Simpsons 📊🍩
+![A simple minimal character  Example Bart Si](https://github.com/fernandogomesfg/springfield_simpsons_analise/assets/59961857/7ee1cb5b-339a-483c-8766-16db34f47b1b)
 
 Bem-vindo ao projecto de análise de dados dos Simpsons! Neste projecto, explorei os dados de mais de 700 episódios das aventuras da família Simpson em Springfield.
 
